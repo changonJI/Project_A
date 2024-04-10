@@ -1,0 +1,2 @@
+name,level,hp,maxHp,power,exp,money,scene,posx,posy,posz,rotx,roty,rotz,scalex,scaley,scalez,head,body,foot,weapon,shield
+Player,2,160,180,65,5,200,Village,25.2,0,2.42,0,-0.1500454,0,1,1,1,1,1,1,1,0

@@ -1,0 +1,5 @@
+index,itemName,itemRsName,itemInfo,itemPrice,itemPower,itemHp
+0,0_cap,equipment_cap,기본적인 투구,50,0,5
+0,1_clothes,equipment_clothes,기본적인 옷,100,0,10
+0,2_shoe,equipment_shoe,기본적인 신발,50,0,5
+0,3_sword,equipment_sword,기본적인 검,100,10,10

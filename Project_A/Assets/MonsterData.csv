@@ -1,0 +1,4 @@
+index,name,level,autoattack,maxhp,hp,power,exp
+1,Rabbit,1,0,100,100,0,5
+2,Tiger,3,1,500,500,10,20
+3,Golem,10,1,1000,1000,20,100
